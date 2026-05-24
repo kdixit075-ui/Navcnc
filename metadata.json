@@ -1,0 +1,6 @@
+{
+  "name": "navcnc",
+  "description": "Calculate spindle speed (RPM) and feed rates for CNC milling, turning, and drilling operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
